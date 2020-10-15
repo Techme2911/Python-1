@@ -4,4 +4,5 @@ Example URL: vedantkhairnar.ml
 '''
 
 import webbrowser
+print("Hello ,type the website you want to visit below")
 webbrowser.open(input(), new=2)
